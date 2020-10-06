@@ -1,8 +1,8 @@
 # README #
 
-Home - index.html
-Docs - docs.html
-404 - 404.html
+- Home - index.html
+- Docs - docs.html
+- 404 - 404.html
 
 ### Getting Set Up ###
 
